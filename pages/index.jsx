@@ -140,7 +140,8 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by <Image src="/vercel.svg" alt="Vercel Logo" ml="0.5rem" />
+          Powered by{' '}
+          <Image src="/vercel.svg" alt="Vercel Logo" ml="0.5rem" h="1rem" />
         </Link>
       </Box>
     </Container>
